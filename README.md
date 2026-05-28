@@ -1,6 +1,6 @@
 
 <!-- Banner image -->
-<img src="Sazedul Linkdin cover.png" alt="GitHub Banner" width="100%" style="border-radius: 5px;" />
+<img src="Sazedul Islam cover.png" alt="GitHub Banner" width="100%" style="border-radius: 5px;" />
 
 
 
